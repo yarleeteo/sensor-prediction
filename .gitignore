@@ -3,3 +3,5 @@ learning_curve/
 losses/
 models/
 prepared_data/
+__pycache__/
+prediction/
